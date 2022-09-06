@@ -1,0 +1,12 @@
+﻿What I KNEW today
+
+    • tupleမှာ find() methodမရှိ
+    • tupleကို immutable ဖြစ်လို့ sort()ရင် list ပြန်ပေး၊ တကယ်က ပေးကို မစီသင့်
+
+Set
+    • set = unordered collection ထားတဲ့အတိုင်းမနေ ==> duplicateဖယ်တဲ့နေရာ အသုံးဝင်
+      e.g list = [100,200,300]; list[1] =200၊ ထားတဲ့အတိုင်းပြန်   listက ordered collection
+    • {} ==> empty dictionary not emply set . Empty set is set()
+    • set.pop() သည် ထင်ရာ element = arbitary elementကို ထုတ်ပေး၊ unorder collectionဖြစ်လို့
+    • error ရှောင်လိုရင် errorတတ်စေတဲ့ methodတွေကို ရှောင်နိုင်သမျှရှောင်
+      e.g ==> list.index(), set.remove()

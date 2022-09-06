@@ -1,0 +1,15 @@
+﻿What I KNEW today
+
+    • js မှာ=> 1== ‘1’ => true ဘာလို့ဆို type conversion ကြောင့်
+    • pythonမှာ 1 == True, ‘True’ == 1 > boolean type conversionကြောင့်
+    • equality operator(==)ကို collections(list,tuple,set,dicitonary)တို့မှာလည်း elementချင်းတိုက်ပီး စစ်နိုင်
+    • sequence type(tuple, list, range) preserve order
+    • Bitwise Operators ==> &, |, ^, ~, <<, >>
+      1Byte = 8bits
+    • အချို့ languageတွေမှာ if သည် statement၊ pythonမှာ expressionပဲ ဖြစ်လို့ valueကို ပေးနိုင်
+
+
+
+
+
+    • line by line sequential flowကို programmerက လိုသလို  statementsနဲ့ controlလုပ်

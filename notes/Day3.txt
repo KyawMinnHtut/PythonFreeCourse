@@ -1,0 +1,26 @@
+﻿What I KNEW today
+
+Type defines
+    1. set of possible values
+    2. operations
+
+Statement = 
+Clause = 
+Expression = valueတစ်ခု returnပြန်ပေးတဲ့ a piece of code
+
+variableကို digitနဲ့ စလို့မရ။ ဘာလို့ဆို lexical analysis က variableလား numberလားခွဲရခက်လို့
+
+PEP 8 – Style Guide for Python Code ==> https://peps.python.org/pep-0008/
+
+Class 		=> 	CamelCase
+others 		=> 	lower_case_with_underscore
+constant 	=> 	UPPERCASE
+
+Python keywords
+	go into python shell => help(“keywords”)
+
+Operators and Operand
+	binary operator = operandနှစ်ခု လိုက်ရတဲ့ အတွက် 
+	unary operator = operand တစ်ခုပဲ လိုက်ရတဲ့ အတွက်
+
+Python Operator Precedence ==> https://docs.python.org/3/reference/expressions.html

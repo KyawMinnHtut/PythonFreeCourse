@@ -1,0 +1,45 @@
+﻿What I KNEW today
+      
+    • Abstraction Barrier
+    • JVM
+      SourceCode --compiler→ IntermediateCode(ByteCode) –-JVM-→
+    • Performanceနဲ့ စဥ်ရင်
+    1. Compiler
+    2. VM based
+    3. Interpreter 
+    • ByteCode ---JVMcompiler--→ NativeCode ပြောင်းတဲ့အချိန် conversionမှာ costရှိတဲ့အတွက် အားလုံးကို compileမလုပ်ဘဲ လိုတဲ့အချိန်မှာဘဲ - hotspot compilation /JIT ၊
+မ runခင် ကြိုပီး ByteCodeတွေကို NativeCode အဖြစ်ပြောင်းတာ - AOT
+    • Transpiler
+HighLevelLanguage(higer abstraction) => HighLevelLanguage(lower abstraction)
+e.g sourceLanguage-TypeScript =Babel transpiler => sourceLanguage-Javascript
+
+Python
+    1. Jython 
+    2. IronPython
+    3. Cpython
+    4. Cython
+
+		Lexical Analysis
+			Tokens
+				Prase
+					Prase Tree
+						Prune
+							AST
+								Transverse
+    • Tree Traversal
+    1. Pre (RLR)
+    2. In (LRR)
+    3. Post (LRR) –Stack based VM
+
+    • Python – Scripting Language
+		Pythonက OSနဲ့ ကပ်နေရ၊ JSဆို browserနဲ့ ကပ်နေရ။
+
+    • Python မှာ memory address မရှိ၊ id()သည် identifierပဲ uniqueတော့ဖြစ်
+	id()သည် variableတွင်ရှိတာမဟုတ်၊ valueတွင်လည်းရှိ
+
+    • Dynamic vs Static Type
+    • Static Type Golangမှာ typeကြေညာစရာမလိုဘဲ type inferencingနဲ့ သိနိုင်
+    • Static Type မှာ 
+      Invalid type operation မဖြစ်နိုင်တာကို လုပ်ခွင့် ပြုရင် Weekly type၊ 
+      ပေးမလုပ်ရင် Strongly type
+	

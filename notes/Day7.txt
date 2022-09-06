@@ -1,0 +1,16 @@
+﻿      What I KNEW today
+      
+    • Control Flowသည် natural orderအတိုင်း ဖြစ်သင့်
+    • Conditional statement သည် truthy ဖြစ်တဲ့ expressionတိုင်း အလုပ်လုပ်သွား
+    • programmerက edge case/corner case/ all possible casesကို အကုန် စစ်ထားရမယ်
+
+
+
+
+
+
+    • why range start from 0?
+    • for in loopက အခြား languageတွေထက် ပိုရှင်း၊ pythonic ဖြစ် e.g code blockကို readibilityဖြစ်အောင် indentနဲ့ ထား
+    • codeကို designကောင်းအောင် ပြန်လုပ်တာကို refractoring
+    • for in loopနဲ့ dictionaryမှာ key, valueဆိုပီး keyရော valueရော iterateလုပ်နိုင်
+    • pythonမှာ for elseရှိတယ် => confuseဖြစ် မသုံးသင့်

@@ -1,0 +1,10 @@
+﻿What I KNEW today
+
+    • Literal => immediate value
+    • string က arrary သဘောတရားလိုပဲ လိုသလို ဖြတ်တောက်
+    • range()က မရှိသေးတဲ့ တစ်ခုကို iterate/generate လုပ်၊ sliceက ရှိပီးသားထဲက ပြန်ထုတ်
+    • pythonမှာ False,0, 0.0, 0+0j, ‘’, [],{} ဆိုရင် False၊ ကျန်တာတွေက True
+    • bytes typeကို network နဲ့ file တွေမှာ သုံးပြု၊ stringလို immutableဖြစ်၊ mutableဖြစ်ချင်ရင် bytearrayပြောင်း
+    • static type တွေထက် dynamic typeတွေက variable sizeမှာပိုယူ၊
+    • AI - numpyမှာ နှေးပီး နေရာယူတဲ့ Python Listကို မသုံးဘဲ၊ C++ arrayကို သုံး
+    • list က mutable and linear data structure၊ tupleက immutable

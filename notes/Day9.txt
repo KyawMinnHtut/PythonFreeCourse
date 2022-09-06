@@ -1,0 +1,23 @@
+﻿What I KNEW today
+      
+    • String .format()သည် functionမှ argumentလက်ခံပီး ထည့်သွင်းရာတွင် အသုံးဝင်
+
+How to Solve				=> reverse order of words
+    1. Requirement gathering
+    2. Analysis
+    3. Big problems => Smaller problems
+
+    • Problem Solveဖို့ ခေါင်းထဲမှာ အရင်ဆုံး knowledgeရှိရမယ်
+    • languageက သင်လို့ လွယ်တယ်၊ programming logicရယ် languageရဲ့ problem solving paradigmက လေ့ကျင့်မှ ရမယ်။
+
+
+
+
+    • programmingက learn by doingနဲ့ လေ့လာ
+    • python data structures ==> list, tuple, set, dictionary
+    • python        algorithm ==> how things are worked in data structures
+    • pythonကို indexကို လိုချင်ရင် enumerate()နဲ့ loopingပတ်၊ ဖြစ်နိုင်ရန် len(sequence)ကို loopပတ်ရာမှာ မသုံးပါနဲ့
+    • sequenceတစ်ခုမှာ index()နဲ့ accessလုပ်ရင် valueError= ရှိမနေတဲ့ errorတတ်နိုင်လို့ ရှောင်
+
+
+my note => pythonicဖြစ်ချင်ရင် python source codeတွေများများဖတ်

@@ -1,0 +1,36 @@
+﻿What I KNEW today
+      
+    • စက်နဲ့ ကွန်ပျူတာ ကွာခြားချက်က စက်ဆိုတာ လုပ်ဆောင်ချက်တစ်ခုသာပဲလုပ်နိုင်၊ ကွန်ပျူတာက Programming Machineဖြစ်တယ်။ ကိုယ်လုပ်ခိုင်းချင်တဲ့ အလုပ်ကို programmingနဲ့ လုပ်ခိုင်းနိုင်တယ်၊ အဓိကတော့ information processing
+    • programming  ဆိုတာ problem solving
+    • Office softwareတွေက Officeနဲ့ ပတ်သတ်တဲ့ problemsတွေကို ဖြေရှင်းဖို့ဖြစ်
+    • programming language ဆိုတာ programmer နဲ့ computerကြား အသုံးပြုတဲ့ အရာ
+    • Computer → Machine Language(Binary) → Assembly(Textual Context)
+      
+    • OS+Hardware = platform(e.g- WindowsOS, LinuxOS, MacOS)
+
+    • Python ← C ← Assembly
+      
+    • Compiler
+	SourceCode => IntermediateCode(as file) => NativeCode
+	(IntermediateCodeကို interpreterကနေ တန်း runလုပ်လို့ မရဘူး)
+    • Java/C/C++/Go တို့က compile language
+      
+    • Interpreter
+	SourceCode => ByteCode(in memory) and Directly Execute
+	(ByteCodeကို VM or interpreterက executeလုပ်)
+    • Pythonကို Python Interpreterကနေ run
+
+    • Types of Virtual Machine
+    1. Stack based VM
+    2. Register based VM
+       
+    • Stack Based VM or Interpreter
+	a = b + c * d; (b=2,c=3,d=4)
+
+a
+14
+
+
+
+
+

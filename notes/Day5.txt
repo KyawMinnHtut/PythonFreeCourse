@@ -1,0 +1,17 @@
+﻿What I KNEW today
+
+    • Dictionary : {key:value}
+	key 	= not accept duplicate key, any value which can be converted to String
+    • compile languageတွေမှာ operatorsတွေကို compile timeမှာတင် type checkingလုပ်ပေး
+    • True = 1, False = 0 ဖြစ်လို့ booleanကို arithmeitc operatorsတွေက လက်ခံ
+    • Relational Operatorsတွေကို comparable same typeမှာ သုံးပြုနိုင်
+      stringဆို dictionary order
+    • = assign operator	== equality operator
+    • Boolean Operators (and, or, not)
+      and မှာ truthy နဲ့ falsy
+      or မှာ truthy နဲ့ falsy
+“Truthy values are values that evaluate to True in a boolean context. Falsy values are values that evaluate to False in a boolean context.”
+    • Bitwise operators – image processing၊ manipulationမှာ သုံး
+    • assignment operator → = ၊ compound assignment operator → +=, …
+
+

@@ -1,0 +1,16 @@
+﻿What I KNEW today
+
+List
+    • Computer Science – Data Structures and Algorithms
+		https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+      
+    • xmlက htmlထက် ပိုစနစ်ကျ – start tagရှိရင် end tagရှိ
+    • python built-in function =====> globals()
+    • python listသည် function programmingကို javascript လောက် အဆင်မပြေ
+    • programရေးတာက တစ်ဦးထဲဆို ကြိုက်သလိုရေး၊ teamနဲ့ဆို ဖတ်ရကောင်းအောင်ရေး
+
+Tuple
+    • functionမှာ  valueတစ်ခုပဲ returnပြန်ပေး
+    • functional programmingမှာ side affectမဖြစ်အောင် variableကို တန်းဖိုးချိန်းခွင့် မပေး
+    • tupleသုံးခြင်းအားဖြင့် multiple valuesပေးနိုင်၊ functional programmingရဲ့ immutableကနေလာတဲ့အတွက် tupleရဲ့ elementတွေကို ပေးမချိန်းဘူး
+    • functional programmingမှာ Objectမှာ သုံး၊ pythonလို imperative programmingမှာ read-only objectလို နေရာမျိုးမှာ သုံး

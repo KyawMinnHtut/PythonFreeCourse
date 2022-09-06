@@ -1,0 +1,9 @@
+﻿      What I KNEW today
+
+    • goto => unstructured programming
+    • structured programming => single entry and single exit
+    • string is a character arrrayဖြစ်လို့ collection, sequenceလို index, slice, len, in operatorတို့ သုံးပြုရ
+    • len() => function၊ 	သူ့ထဲမှာ parameterပေးရ
+    • .strip() => method၊ 	String Objရဲ့ method
+    • String ကို Python Languageပေးထားတဲ့ method()တွေ apiတွေကို နားလည်အောင် လုပ်ထားသင့်
+    • ctrl+clickနဲ့ codeကို ဝင်လေ့လာရ
