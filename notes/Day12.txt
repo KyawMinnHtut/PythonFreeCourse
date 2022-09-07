@@ -1,0 +1,27 @@
+﻿      What I KNEW today
+      
+    • Dictionary allows duplicate values, not keys because key is in set form
+    • Dictionary – in other languages –> associated memories / associated arrays
+    • referenceကို documentationပဲ အားကိုးပါ
+      https://docs.python.org/3/library/stdtypes.html
+    • dict.formkeys() က class method
+
+Functions
+    • duplicate work ===> abstract ===> function for code reuseable
+    • ထပ်ခါထပ်ခါလုပ်ရမယ့် အလုပ်တွေကို code maintainanceကောင်းအောင် functionထုတ်
+    • advantages of function
+        1. code reuseable
+        2. decompose as abstraction(ကားပျက်ပီဆို  ဘယ်funမကောင်းတာလဲ ခွဲခြမ်းလေ့လာ)
+        3. documentation
+    • problemကို အပိုင်းပိုင်းလေး(module)လေးတွေခွဲပီး solveတာကို modular programmingလို့ခေါ်
+    • function definition, function call act like as boomerang
+    • Function Call runs on call stack in every language
+    • functionမှာ returnရဲ့ နောက်က codeတွေကို unreachable codeလို့ခေါ်
+    • error handlingလိုမျိုးမှာ multiple values with tupleကို သုံးသင့်
+    • parameter ===> funရဲ့ headerမှာ လက်ခံတဲ့ ကောင်
+    • argument ===> funမှာ ထည့်ပေးရတဲ့ actual parameter
+    • keyword argument ==> function_call(key=value, key=value)
+    • for many parameters more than 4, dictionary should be used
+    • default argument  ===> function(parameter=“default”)
+    • tuple unpacking for varargs =====> function_call(*tuple_variable)
+    • dictionary unpack for keyword arguments =====> function_call(**dictionary_variable)

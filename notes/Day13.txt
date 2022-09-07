@@ -1,0 +1,16 @@
+﻿      What I KNEW today
+      
+    • Global Scope vs Local Scope  ===> Global variablesတွေမှာ နေရာတိုင်းကနေ access/modify ပြုလို့ maintainanceမှာ ပြသနာရှိတယ်။
+    • function call stack
+    • Visualize code ==>   https://pythontutor.com/
+    • recursiveက RecursionError: maximum recursion depth exceeded in comparisonကို ဖြစ်စေ၊ like overflow in java ==> fact(999)
+    • Paradigm 
+        1. imperative- line by line, loop, fun and fun_call, if conditions,assign and variable mutate
+        2. functional-သင်္ချာဘက်ကလာတဲ့ function sense-- immutable variables, functions
+              Imperative Programming				Functional Programming
+            ▪ mutable variables				immutable variables
+            ▪ loop						recursive function
+            ▪ if						function
+            ▪ try catch					function 
+    • lambda calculusကို ဆက်လေ့လာရန်
+    • lambda functionဆိုတာ တစ်ကြောင်းထဲ၊ တိုတဲ့ fun = anonymous fun
