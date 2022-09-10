@@ -39,7 +39,7 @@ def small_number(a,b):
     if a < b:
         return a # return a value by conditional
     else:
-        return b # tupleနဲ့ valueတစ်ခုထက်ပိုပီး returnပြန်နိုင်
+        return b
 result = small_number(10,20) #assign return value to a variable
 print("The return value of small_number function is ", result)
 

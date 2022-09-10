@@ -50,7 +50,7 @@ x()
 def invoke(func):
     print("Invoke called")
     func
-invoke(hello)
+invoke(hello())
 
 def get_another_fun():
     print("Invoked get another")
