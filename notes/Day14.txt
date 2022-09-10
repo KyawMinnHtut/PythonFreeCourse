@@ -1,0 +1,16 @@
+﻿      What I KNEW today
+      
+    • UnboundLocalError ===> Global vs nonlocal variable assignment
+    • closureပေးတဲ့ languageမှာ OOမပါဘဲ OOလိုမျိုး သုံးလို့ရ
+    • decorated function order
+      @deco1
+      @deco2
+      function	==> deco2(deco1(function))
+    • Generator Functionက next()နဲ့ ခေါ်လို့ရလဲ ခေါ်ခဲ၊ 
+    • in Python, everything is Object
+    • immutable variableမှာ valueကို copyကူးသွား ==> pass by Assignment
+    • in Java, pass by Value
+    • Python Designerကိုယ်တိုင်က Pythonကို Functinoal Programmingအတွက် မရည်ရွယ်ပါဘူးတဲ့
+
+Modules
+    • a set of function for functional task

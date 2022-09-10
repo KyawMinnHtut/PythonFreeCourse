@@ -1,0 +1,13 @@
+﻿      What I KNEW today
+    • Python string constants
+
+OOP
+    • Class ==> Template ( varibale + method)
+    • တခြား programmingတွေမှာ selfမလို၊ pythonမှာ selfက current objectကို ဆိုလို
+    • Objက သူ့ dataနဲ့ သူရှိတာကို encapsulationလို့ ခေါ်
+    • function is independent, not have state
+    • recursive function can have internal state
+    • function in Class which can maintain state is method
+    • data hiding as private variable in java ==> prevent from accidental override
+    • OO conceptsတွေက dynamic programming languageတွေထက် static မှာ ပိုရှင်း
+    • self သည် instance ဖြစ်ကြောင်း ကြေညာ၊ instance variableတွေကို pythonက dictionaryပုံစံဖြင့် သိမ်းထား၊ တိုက်ရိုက်တော့ ယူမသုံးသင့်

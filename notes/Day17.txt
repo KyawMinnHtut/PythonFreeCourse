@@ -1,0 +1,22 @@
+﻿      What I KNEW today
+
+    • inheritance is a relationship
+    • SuperTypeရဲ့ Objထဲကို SubTypeထည့်လို့ရတယ်
+    • Polymorphismက Static programmingမှာ  inheritanc/Sub typingမလုပ်ဘဲ မရ၊ methodတူတူကို instanceပေါ်မူတည်ပီး အလုပ်ကွဲ
+    • e.g => ATMစက်တစ်ခုမှာ ကြိုက်ရာ ကဒ်နဲ့ ထုတ်လို့ရ ==> Interface payment();
+    • Dynamic programmingမှာ inheritance မလိုဘဲ Duck Typingကြောင့် Polymorphismရ
+    • Static programmingဖြစ်သော်လည်း Go, Typescriptတို့မှာ Duck Typingရ
+    • OO senseအရ Obj.method() ခေါ်တာကို message ပို့တာလို့ခေါ်
+    • Inheritance vs Composition+DepedencyInversion
+    • Frameworkက depedencyဆောက်ပီး autoထည့်ပေးတာကို depedency injectionလို့ ခေါ်
+    • SOLID principles of OO design
+      S	==> single responsibility
+      O	==> open-closed
+      L	==> Liskov Substitution
+      I	==> Interface Segreation
+      D	==> Depedency Inversion
+    • Aggregation vs Composition
+    • Method Resolution Order(MRO)
+    • MRO အရ javaလို DdoDမဖြစ်နိုင်၊  super()ရဲ့ methodကို ခေါ်မှာ အဲ့ methodက ဝင်လာ
+    • childရဲ့ @classmethodeနဲ့ @staticmethodကနေ parentရဲ့ constructor နဲ့ instance methodကို တိုက်ရိုက်ခေါ်လို့ မရ
+    • Method overloading is not possible in python because the last same-name method will be considered.

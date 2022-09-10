@@ -1,0 +1,14 @@
+﻿      What I KNEW today
+
+    • Instance variables vs Class variables 
+    • Instance method vs Class method vs Static method
+    • Class methodက instanceကနေပဲ ခေါ်ခေါ်၊ Class ကနေပဲ ခေါ်ခေါ် ရ၊ parameterမှာ classကိုပဲ လက်ခံထားသလို Class variableကို accessရ Instance varကို access မရှိ
+    • Naming lookup 
+    • Pythonမှာ Internal Instance Variableတွေကို အပြင်က ယူမသုံးနိုင်အောင် မကာနိုင်ဘူး
+    • underscoreဆိုတာက privateဖြစ်တာပါဆိုတဲ့ conventionပဲ ဖြစ်၊ ယူမသုံးအောင် မလုပ်
+    • program to interface not implementation  => tightly coupleလို့ခေါ်
+    • Inner class 
+    • Stackက method call၊ Heapက Objectသိမ်း
+    • referencing counting
+    • Garbage Collection – Heapမှာ reference count 0 ဖြစ်တဲ့ကောင်ကို cleanလုပ်
+    • Garbage collection algorithmအရ လေးတဲ့ အတွက် သာမာန်မှာ မခေါ်သင့်

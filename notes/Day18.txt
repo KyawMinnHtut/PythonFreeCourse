@@ -1,0 +1,11 @@
+﻿      What I KNEW today
+
+    • overriding, method overriding
+    • abstract class is class template, same taxonomy	  ==> inherited, so code reuseable
+    • interface is for polymorphism, of different taxonomy  ==> not inherited, so no code reuseable ===> interface oriented programming
+    • Abstract Classနဲ့ Interfaceကို pythonမှာ အဆင်မပြေ
+    • no private, protected, just convention
+
+Exception Handling
+    • exceptionကို silent killတာ မကောင်းဘူး၊ errorတတ်တော့ တတ်သွားတယ်၊ မသိလိုက်ဘူး ဖြစ်
+    • exception handlingကို control flowအဖြစ် မသုံးသင့်
