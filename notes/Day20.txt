@@ -1,0 +1,22 @@
+﻿      What I KNEW today
+      
+    • seralization/pickling/marshalling = writing obj’s state to a file
+    • neural linkလိုမျိုးမှာ matricesတွေသိမ်းဖို့ databaseထက် byte fileအနေနဲ့ pickle/unpickleလုပ်
+
+Multithreading
+    • program –> in storage(disk)
+    • process –> program in processing in memory
+    • pcb ==> process control block –> store metadata of programs
+    • အရင်တုန်းက single programming-→ computerက တကြိမ်မှာ program တစ်ခုပဲ run ပေးနိုင်
+    • why a single cpu run multiple processesက time slicingကြောင့်ဖြစ်တယ်
+    • cpuရဲ့ မြန်နှုန်းကြောင့် တစ်ချိန်ထဲမှာ လုပ်သွားတယ်လို့ ထင်ရ
+    • process switching==> processတစ်ခုကနေ တစ်ခုကို ပြောင်းရာမှာ process oneမှာ ဘယ်ရောက်နေ၊ process twoက ဘယ်မှာ ဆိုတဲ့ metadataကို pcbမှာ သိမ်း
+    • process တစ်ခုထဲမှာကို threadနဲ့ ခွဲပီး လုပ်
+    • time slicingပေါ်မူတည်ပီး one after another လုပ်သွားတာကို concurrentလုပ်တယ်လို့ ခေါ်
+    • Operating Systemကို သိမှ multithread, concurrent, non-block, asynကို နားလည်နိုင်မယ်
+    • cpu coresတွေပေါ်at the same timeမှာ instructionတစ်ခုကို different dataနဲ့ အလုပ်လုပ်တာကို parallel လုပ်တာလို့ ခေါ်
+    • distributed computing ==> not by one supercomputer, but more than a personal computer
+    • clustered computing ==> as a mainframe by lots of micro computers
+    • cloud computing ==> on the internet
+    • DeprecationWarning: currentThread() is deprecated, use current_thread()
+    • active_count() ==> threadတွေပီးရင်တော့ ကျန်မှာ မဟုတ်

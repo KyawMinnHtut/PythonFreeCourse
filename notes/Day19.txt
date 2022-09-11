@@ -1,0 +1,20 @@
+﻿      What I KNEW today
+      
+    • python is famous of battery included.
+    • Dry = don’t repeat yourself
+    • web, machine learning, web scraping သက်ဆိုင်ရာ ပတ်သတ်ပီး module, library, frameworkတွေရှိ၊ အကုန်လုံး မကျွမ်းကျင်ရင်တောင် daily useတွေကို ရင်းနှီးသင့်
+    • file = unstructured data	database = structured data 
+    • file ==> configuration, log
+    • file operation ==> read, write, append(read+write)
+      read →  r, rb, r+, rb+
+      write→ 
+      append → a
+    • operation systemက concurrency controlကြောင့် file modeထား
+    • cursor ==> pointer
+    • programming languageတိုင်းမှာ fileကို ဖတ်နိုင်တဲ့ op codeမရှိဘူး၊
+    • pythonက fileဖတ်တဲ့ C libကို သုံးရ၊ Cက OS/kernel ရဲ့ API(system call)ကိုခေါ်ရ၊ OSပေါ်မူတည်ပီး system callတော့ မတူပါ
+    • user ရာ လောက်ရှိတဲ့ appအတွက်ကတော့ cs knowledge မလို၊ ထောင်ချီ သောင်းချီပီဆိုရင်တော့ မရ
+    • seek() and tell()  ==> databaseမရှိခင်က recordတွေကို ရိုက်ရာမှာ သုံး
+    • csv fileတွေမှာ data scienceသမားက pandas libaryကို သုံး
+    • zip ==> text fileကိုချုံ့လို့ရ၊ image(binary)ကို ချုံ့ရင် qualityကျဆင်း
+    • import OS ==> OS moduleကနေ OSကို permissionရှိသလောက် လုပ်လို့ရ	===> page(227)
