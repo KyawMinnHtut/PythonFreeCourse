@@ -1,0 +1,12 @@
+﻿      What I KNEW today
+      
+    • process / threadတွေက concurrent run၊ parallel runဖို့က hardware supportလို
+    • Mutal Exclusion ==> counterကို တစ်ယောက်က သုံးနေရင် နောက်တစ်ယောက်ကို ပေးမသုံး
+    • Critical Session ==> thread တွေ shareလုပ်ပီး သုံးနေတဲ့ code or code block
+    • lock()=> acquire(), release()
+    • dead lock ==> acquire() လုပ်ပီး၊ release() ပြန်မလုပ်သွားသော်အခါ
+    • semaphore==> Semaphore(int) က acquireလုပ်လို့ရမယ့် thread အရေအတွက်
+    • Semaphore(1) ဆိုရင် lock()နဲ့ တူတူဖြစ်
+    • Semaphoreက acquireထက် ပိုပီး releaseလုပ်လို့ရ၊ BoundedSemaphoreဆို release ပိုလုပ်လို့မရ
+    • javaမှာ concurrencyပတ်သတ်တာကို data structureထဲထည့်ပီးသား
+    • Producer vs Consumer problem

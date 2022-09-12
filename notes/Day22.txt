@@ -1,0 +1,23 @@
+﻿      What I KNEW today
+      
+    • amazon.sg/robots.txt
+    • built-in web scrapingထက် BeautifulSoup(third-party) သုံး
+    • compilerက လာ  ===> regular language = *တို့ +တို့ တွဲရေးလို့ရ
+    • [] → or ဆိုတဲ့ အဓိပ္ပါယ်ရ [abc] → a or b or c 
+      
+      regularexpression လေ့လာရန် ===> https://regexone.com/
+
+    • . = any character except new line(\n)
+    • ^ - = start of the string and begin with
+    • - $ = end of the string and end with
+    • * = zero or more
+    • + = at least once
+    • ? = zero or one
+    • {} = number of repetitions
+    • \ = escape . ^ $ etc.
+    • | = or
+    • () = group
+    • \w = word character = char, digit			\W is opposite
+    • \d = digit						\D is opposite
+    • \s  = white space					\S is opposite
+    • \b = world boundary
