@@ -1,0 +1,25 @@
+﻿      What I KNEW today
+      
+    • permanent storageအတွက် file systemကို databaseမပေါ်ခင်က သုံး၊ အဆင်မပြေ
+    • အမြဲပြောင်းလဲနေနိုင်တဲ့ data = transactional data (e. g bank account)
+    • DDL = data definition language, DML = data manipulation language
+    • Python → DB Driver → Networking → Database
+
+
+Web Development
+    1. Django
+    2. Flask
+    3. FastApi
+
+Book
+    1. Clean Code
+    2. Code Complete
+    3. Refractoring 
+
+    1. TDD
+    2. Code metric 
+    3. Anti-pattern & Code smell
+    4. Code Style Guide for Python
+    5. Python linter
+    6. Microservices
+    7. Enterprise Design Patterns
